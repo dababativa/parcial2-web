@@ -82,13 +82,13 @@ useEffect(()=>{
           <tr>
             <th scope="col">#</th>
             <th scope="col">
-              <FormattedMessage id="Name"></FormattedMessage>
+              <FormattedMessage id="Name"/>
             </th>
             <th scope="col">
-              <FormattedMessage id="Channel"></FormattedMessage>
+              <FormattedMessage id="Channel"/>
             </th>
             <th scope="col">
-              <FormattedMessage id="Description"></FormattedMessage>
+              <FormattedMessage id="Description"/>
             </th>
           </tr>
         </thead>
